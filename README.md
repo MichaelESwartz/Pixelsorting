@@ -7,4 +7,4 @@ This script is used to process images and sort pixels but some arbitrary rule. I
 
 The images included are examples of the results of running pictures through this algorithim. 
 
-![Settings Window](https://raw.github.com/MichaelESwartz/Pixelsorting/master/Walle-sorted.png)
+![Settings Window](https://raw.github.com/MichaelESwartz/Pixelsorting/blob/master/Walle_sorted.png)
